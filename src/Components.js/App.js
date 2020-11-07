@@ -1,9 +1,11 @@
 import React, { useEffect, useState } from 'react'
-import youtube from './apis/youtube'
+
 import SearchBar from './SearchBar'
 import VideoDetail from './VideoDetail'
 
 import Videolist from './Videolist'
+
+import youtube from '../api/youtube'
 
 const App = () => {
 
