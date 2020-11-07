@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import youtube from './apis/youtube'
 import SearchBar from './SearchBar'
 import VideoDetail from './VideoDetail'
-import Videoitem from './Videoitem'
+
 import Videolist from './Videolist'
 
 const App = () => {
